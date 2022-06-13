@@ -1,0 +1,16 @@
+body{
+    background-color: deepskyblue;
+}
+h1{
+    font-weight: bold;
+}
+h4{
+    color: red;
+}
+img{
+    width: 37%;
+    box-shadow: 0 6px 8px 0 orange;
+}
+#camera{
+    width: 500px;
+}
